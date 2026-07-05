@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 i'm David Asante
+Welcome to myn GitHub repository!
 
-<!--
-**asantedavid/asantedavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer from Ghana with a passion for technology and continuous learning.
+this repository is part of my journey as i learn programming, Giy, Github, and build real world projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What you will find here
+- 🔭 my coding practice
+- 🌱prsonal projects
+- 👯 web development experimnt
+- 🤔 Inotes from mylearning journey
+## Goals
+-Become a skilled software developer
+-Build useful applications
+-contribute to open-source projects
+
+Thanks for visiting my repository
