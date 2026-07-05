@@ -1,15 +1,15 @@
 ## Hi there 👋 i'm David Asante
-Welcome to myn GitHub repository!
+Welcome to my GitHub repository!
 
 I'm an aspiring software developer from Ghana with a passion for technology and continuous learning.
-this repository is part of my journey as i learn programming, Giy, Github, and build real world projects.
+this repository is part of my journey as i learn programming, Git, GitHub, and build real world projects.
 
 
 ## What you will find here
 - 🔭 my coding practice
 - 🌱prsonal projects
-- 👯 web development experimnt
-- 🤔 Inotes from mylearning journey
+- 👯 web development experiment
+- 🤔 notes from my learning journey
 ## Goals
 -Become a skilled software developer
 -Build useful applications
